@@ -1,0 +1,12 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^3.1",
+        "slim/slim": "^3.5.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    ]
+}
