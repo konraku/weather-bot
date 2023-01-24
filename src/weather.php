@@ -1,5 +1,5 @@
 <?php
-// 東京(130000)の予報を取得
+// 天気予報を取得
 $url = "https://www.jma.go.jp/bosai/forecast/data/forecast/";//{area}.json
 
 $area = array(
